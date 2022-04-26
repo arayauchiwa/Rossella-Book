@@ -86,3 +86,35 @@ header {
   .popular {
     display: none;
   }
+
+  *****************
+  .container {
+    max-width: 100vh;    
+  }
+
+  article {
+    margin: 0 2rem;
+  }
+
+  .dwiss {
+    margin: 0 2rem;
+  }
+
+  h2 .underline {
+    margin:  0 2rem;
+  }
+
+  .dwiss-photo {
+    max-width: 90%;
+    margin: 0 2rem;
+
+  }
+
+  h2 {
+    margin: 0 2rem;
+  }
+
+  .event {
+    padding: 0 2rem 0 0;
+    text-align: justify;
+  }

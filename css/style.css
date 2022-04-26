@@ -19,6 +19,7 @@
 
 .container {
   max-height: 100vh;
+  
 }
   
   :root {
@@ -261,6 +262,8 @@ body {
     font-weight: 700;
     font-size: 1.4rem;
   }
+
+  
 
 
   .mx-1 {
